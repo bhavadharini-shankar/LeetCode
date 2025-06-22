@@ -8,9 +8,7 @@ class Solution:
         while hl<hr:
             h=min(height[hl],height[hr])
             w=hr-hl
-            a=h*w
-            if a>area:
-                area=a
+            area=max(area,h*w)
             if height[hl]>height[hr]:
                 hr-=1
             else:
