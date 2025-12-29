@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1929-concatenation-of-array](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/bhavadharini-shankar/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/bhavadharini-shankar/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Greedy
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0136-single-number) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
