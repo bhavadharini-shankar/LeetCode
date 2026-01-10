@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0169-majority-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Dynamic Programming
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0169-majority-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
 |  |
@@ -103,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1929-concatenation-of-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
