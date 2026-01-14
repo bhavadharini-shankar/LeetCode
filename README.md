@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0412-fizz-buzz](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2383-add-two-integers](https://github.com/bhavadharini-shankar/LeetCode/tree/master/2383-add-two-integers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/bhavadharini-shankar/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
 |  |
