@@ -1,10 +1,11 @@
 class Solution:
     def shuffle(self, nums: List[int], n: int) -> List[int]:
-        res=[]
-        i=0
-        while i<n:
-            res.append(nums[i])
-            res.append(nums[i+n])
-            i+=1
+        result=[]
+        
+        for i in range(0,n):
+            result.append(nums[i])
+            result.append(nums[i+n])
 
-        return res
+        return result
+
+        
