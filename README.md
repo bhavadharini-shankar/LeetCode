@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0645-set-mismatch) |
 | [1046-max-consecutive-ones-iii](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1470-shuffle-the-array](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0169-majority-element) |
+| [0645-set-mismatch](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0645-set-mismatch) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Dynamic Programming
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0169-majority-element) |
+| [0645-set-mismatch](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0645-set-mismatch) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
 |  |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0136-single-number) |
+| [0645-set-mismatch](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0645-set-mismatch) |
 ## Simulation
 |  |
 | ------- |
