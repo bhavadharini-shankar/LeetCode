@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0645-set-mismatch) |
 | [1046-max-consecutive-ones-iii](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0412-fizz-buzz) |
+| [1441-build-an-array-with-stack-operations](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0020-valid-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Counting Sort
 |  |
 | ------- |
