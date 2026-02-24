@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0283-move-zeroes) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Counting Sort
 |  |
