@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0326-power-of-three](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2383-add-two-integers](https://github.com/bhavadharini-shankar/LeetCode/tree/master/2383-add-two-integers) |
@@ -151,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0175-combine-two-tables) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
