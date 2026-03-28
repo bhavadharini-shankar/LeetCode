@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0443-string-compression) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0383-ransom-note) |
 ## Stack
 |  |
 | ------- |
