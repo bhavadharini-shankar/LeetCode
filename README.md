@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/bhavadharini-shankar/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Array
 |  |
 | ------- |
