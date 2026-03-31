@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -168,5 +169,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0061-rotate-list) |
 | [0234-palindrome-linked-list](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
