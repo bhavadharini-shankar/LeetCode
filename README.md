@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1392-longest-happy-prefix](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1392-longest-happy-prefix) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/bhavadharini-shankar/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -171,4 +172,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0061-rotate-list) |
 | [0234-palindrome-linked-list](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1392-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
