@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0645-set-mismatch) |
 | [1046-max-consecutive-ones-iii](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1095-find-in-mountain-array](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1095-find-in-mountain-array](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1095-find-in-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
