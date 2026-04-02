@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
