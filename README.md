@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1392-longest-happy-prefix) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0645-set-mismatch) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Dynamic Programming
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bhavadharini-shankar/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Binary Search
 |  |
