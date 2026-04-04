@@ -6,15 +6,15 @@ public:
             return;
         }
         if(open<n){
-            solve(s+"(", open+1,close,n,ans);
+            solve(s+"(", open+1, close, n, ans);
         }
         if(close<open){
-            solve(s+")",open,close+1,n,ans);
+            solve(s+")", open, close+1, n, ans);
         }
     }
     vector<string> generateParenthesis(int n) {
-       vector<string> ans;
-       solve("",0,0,n,ans);
-       return ans;
+        vector<string> ans;
+        solve("",0,0,n,ans);
+        return ans;
     }
 };
