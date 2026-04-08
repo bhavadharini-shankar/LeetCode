@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0200-number-of-islands) |
 ## Tree
 |  |
 | ------- |
@@ -240,12 +242,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -258,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/bhavadharini-shankar/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
